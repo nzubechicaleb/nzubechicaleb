@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nzubechicaleb
 - 👀 I’m interested in the world data
-- 🌱 I’m currently learning data analysis and it's technical skills such as the python SQL and r. 
-- 💞️ I’m looking to collaborate with data engineer 
+- 🌱 I’m currently learning data analysis and it's technical skills such as the python and SQL 
+- 💞️ I’m looking to collaborate with data lovers
 - 📫 How to reach me calebnzubechionyema@gmail.com
 
 <!---
